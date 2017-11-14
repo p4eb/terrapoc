@@ -14,3 +14,5 @@ output "random" {
 output "hello_world" {
   value = "Hello, ${var.name}"
 }
+
+# test
